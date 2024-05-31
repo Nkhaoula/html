@@ -1,0 +1,6 @@
+
+    /*tous les <p> à l'intérieur de la balise <section>*/
+section p:second-child{
+    color: red;
+}
+  
