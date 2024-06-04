@@ -12,18 +12,28 @@ td {
 }
 
 .purple{
-    background-color: blueviolet;
+    background-color: rgb(86, 43, 226);
+}
+.purple1{
+    background-color: rgb(188, 130, 238);
 }
 
 .bleu{
     background-color: blue;
 }
+.bleu-ciel{
+    background-color: rgb(0, 225, 255);
+}
 
 .green{
-    background-color: green;
+    background-color: rgba(60, 128, 0, 0.761);
 }
 
 table{
     margin: auto;
     border-collapse: collapse;
+    
+}
+.yellow{
+    background-color: rgb(255, 242, 0);
 }
